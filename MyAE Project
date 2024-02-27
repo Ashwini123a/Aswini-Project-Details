@@ -1,0 +1,19 @@
+# 7.
+    Project			  : My Application Engineer (MyAE)
+    Organization	: Tech Mahindra Computer Services Ltd.
+    Client			  : GE Energy, USA
+    Role			    : Developer, Team Member  
+    Team size			: 8
+    Technologies	: C#, ASP.NET, WCF, Framework 4.5, VBA, Visual studio 2012.
+    Duration			: Nov 2014 – March 2016
+    
+    Project Description:
+        MyAE is a set of applications; MyAE web application triggers the Ebsilon integration Layer. The user will be allowed to choose only those parameters for a model which have been defined by the admin. 
+    
+    Roles & Responsibilities:
+        •	Development of WCF service using C # 
+        •	Encoding and decoding .png image file in BLOB 
+        •	Involved in designing the client user interface to consume WCF service
+        •	Involved in creating Macros in Excel using VBA language.
+        •	Handling Scrum calls and client Weekly status.
+        •	Involved in deploying application
