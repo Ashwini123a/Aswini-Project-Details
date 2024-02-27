@@ -1,0 +1,12 @@
+#6. Project	DSF (Deloitte Strategy Framework)	Client	Deloitte
+Role	Developer, Module Lead	Team Size	10
+Technologies	C#.NET, MVC, API, GIT, SQL, Microsoft Azure Service Bus, Azure cache for Redis, Azure Storage Account	Duration	Sep 2017 – March 2018
+
+Key Deliverables:
+•	Assisted in collecting requirements and addressed and solved software hitches.
+•	Designed application framework and established business logic.
+•	Troubleshoot the message at Service Bus queue. 
+•	Troubleshoot the Cache data at Redis Cache. 
+•	Authored Microsoft Unit Test methods and crafted setup and installation guidelines.
+•	Maintained continuous integration and deployment through the VSTS server. 
+•	Involved in troubleshooting and fixing issues.  
