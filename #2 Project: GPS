@@ -1,12 +1,13 @@
 #2. Project:	GPS (Global Pricing Solution)	Client	Deloitte
-    Role   :	Automation Testing	Team Size	8
-    Technologies:	C#, Selenium, SQL, Postman	
+    Role   :	Automation QA Lead	
+    Team Size	8
+    Technologies:	Management tools, JIRA, C#, Selenium, Java Selenium, TestNG, Web API, BDD, C#, Selenium, SQL, Postman	
     Duration	March 2019 – July 2022
 
 Key Deliverables:
-•	Created automated test scripts and addressed and resolved software issues.
-•	Took charge of test script development and execution.
-•	Implemented features to capture screenshots for failed tests.
-•	Managed documentation and delivered regular status updates to clients.
-•	Oversaw database-related test script automation.
-•	Liaised with clients and teams to comprehend automation needs.
+•	Created test scripts and addressed and resolved software issues. 
+•	Delivered test automation for projects in Finance Advisory domains using C#, Selenium, and TestNG.
+•	Managed stakeholder communication, test strategies, and project documentation.
+•	Optimized test case coverage through database-driven testing.
+•	Facilitating stakeholder collaboration as requested or needed. 
+
