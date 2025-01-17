@@ -3,12 +3,13 @@
     Client: Damco
     Role:	Developer, Module Lead	
     Team Size:	5
-    Technologies:	C#, VB6, Web API, Amazon S3 service, Amazon SQS service, MVC, Framework 4.5, Microsoft Visual Studio2012	
+    Technologies:	C#, VB6, Web API, Amazon S3 service, Amazon SQS service, MVC, LINQ Framework 4.5, Microsoft Visual Studio2012
     Duration:	April 2016 – March 2017
 
 Key Deliverables:
 •	Participated in gathering requirements and formulated business procedures.
-•	Implemented Amazon S3 service, Amazon SQS service.
-•	Migrating VB application to C#.
-•	Involved in developing Client application.
-•	 Involved in requirements gathering and developing WEBAPIs service using C #.
+•	Design and Development of application using C #  
+•	Migrated VB applications to C# and developed Web APIs for business solutions.
+•	Deployed AWS S3 and SQS services to enhance system performance.
+•	Defined client requirements and enforced scalable solutions. 
+
