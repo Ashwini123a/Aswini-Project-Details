@@ -1,16 +1,16 @@
-# 1.  Project:	Corrigo	Client	JLL
-      Role:	Automation QA lead and Scrum Master	
+# 1.  Project:	Corrigo	
+      Client:	JLL
+      Role: 	Automation QA lead 
       Team Size:	40
-      Technologies/Tools:	Management tools, JIRA, C#, Selenium, Jenkins, Postman, GIT, SQL	Duration	July 2022 – Till Date
+      Technologies/Tools: JIRA, C#, Selenium, Web API, BDD, Rest Sharp API, Playwright, OpenAI, Prompt engineering, Typescript, Postman, Jenkins, GIT, SQL	
+       Duration:	July 2022 – Till Date
 
 Key Deliverables:
-•	Accountable for test case scripting development and test case execution.
-•	Enhancing automation project frameworks through ongoing research.
-•	Managing the automation Design and Test Plan documentation and providing regular test cases reports.
-•	Ensuring that all Scrum events take place and are positive, productive, and kept within the time box.
-•	Helping the Scrum Team understand the need for clear and concise Product Backlog items.
-•	Helping establish empirical product planning for a complex environment.
-•	Facilitating stakeholder collaboration as requested or needed.
-•	Participating in scrum events, teamwork, and addressing impediments.
-•	Facilitate Sprint Planning and make use of the “planitpoker” tool to capture the team’s task estimations.
-•	Facilitate Sprint Retrospective with the “metroretro” tool by using the technique “Add, Improve, Keep, Remove”. 
+•	Managing the automation Design and Test Plan documentation.
+•	Generated regular test reports and enhanced the automation framework with innovative solutions.
+•	Automated AI Chatbot features using OpenAI APIs and applied Prompt Engineering strategies.
+•	Led a 14-member QA team, managing test plans, design, and documentation for diverse projects. 
+•	Took charge of test script development and execution.
+•	Collaborate with cross-functional teams to integrate testing. 
+•	Mentored junior testers in automation best practices and tools. 
+
